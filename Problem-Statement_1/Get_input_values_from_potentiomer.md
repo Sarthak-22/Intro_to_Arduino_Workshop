@@ -3,6 +3,7 @@ Attach a potentiometer at Arduino pin **A0** and get input values from it
 
 ### Circuit:
 
+![diagram](https://github.com/Sarthak-22/Intro_to_Arduino_Workshop/blob/main/images/Get%20Input%20values%20from%20a%20potentiometer%20.png)
 
 ### Code:
 ```
