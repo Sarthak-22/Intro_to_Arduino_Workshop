@@ -1,0 +1,30 @@
+## Problem Statement
+Attach a potentiometer at Arduino pin **A0** and get input values from it
+
+### Circuit:
+
+
+### Code:
+```
+int potpin=A0;
+float readvalue;
+float potvoltage;
+
+void setup()
+{
+  Serial.begin(9600);
+  pinMode(potpin,INPUT);
+}
+
+void loop()
+{
+  readvalue=analogRead(potpin);
+  potvoltage=readvalue*5.0/1024.0;
+  Serial.print("The potentiometer reading is - ");
+  Serial.println(potvoltage);
+  delay(250);
+}
+```
+
+### Tinkercad Circuit link:
+[Get input values from potentiometer](https://www.tinkercad.com/things/93cYnUubKCX)
