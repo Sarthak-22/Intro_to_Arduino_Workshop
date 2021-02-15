@@ -3,7 +3,7 @@ Blink an external LED at pin 12 in Arduino with a blinking rate of 1s
 
 ### Circuit: 
 
-
+![diagram](https://github.com/Sarthak-22/Intro_to_Arduino_Workshop/blob/main/images/Blinking%20an%20external%20LED%20at%20pin%2012.png)
 
 
 ### Code:
