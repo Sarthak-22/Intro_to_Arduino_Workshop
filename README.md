@@ -16,3 +16,7 @@ Workshop contents for Shaastra 2021
 
 ## Problem Statement-3
 
+
+## Additional Problem Statements
+Hope you are familiar now with TinkerCAD and basics of Arduino. Here are certain intriguing problem statements that you may like to work on. These prokects are for fun and learning, so make sure you make the best out of it. The complete Problem statement is given [here](https://github.com/Sarthak-22/Intro_to_Arduino_Workshop/blob/main/Additional_ProblemStatements.md)
+
