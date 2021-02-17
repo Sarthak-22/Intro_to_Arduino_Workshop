@@ -1,6 +1,6 @@
 ## Additional Problem Statements
 
-**Note**: These Problem statements are of moderate-tough level. It is suggestes to work through the basic problem statements before working on below PS. These problem statements are just meant for fun and learning. Feel free to Google or use any other reference if needed :) 
+**Note**: These Problem statements are of moderate to tough level difficulty. It is suggested to work through the basic problem statements before working on below PS. These problem statements are just meant for fun and learning. Feel free to Google or use any other reference if needed :) 
 
 
 
