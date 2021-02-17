@@ -12,11 +12,11 @@ Workshop contents for Shaastra 2021
 6) [Use one master Arduino to control the blinking LED of the other slave Arduino using I2C communication protocol between the two](https://github.com/Sarthak-22/Intro_to_Arduino_Workshop/blob/main/Problem-Statement_1/I2C%20communication%20with%202%20Arduinos.md)
 
 ## Problem Statement-2
-[Gas Detector Circuit](https://github.com/Sarthak-22/Intro_to_Arduino_Workshop/blob/main/Gas%20detector%20circuit.md)
+   [Gas Detector Circuit](https://github.com/Sarthak-22/Intro_to_Arduino_Workshop/blob/main/Gas%20detector%20circuit.md)
 
 ## Problem Statement-3
 
 
 ## Additional Problem Statements
-Hope you are familiar now with TinkerCAD and basics of Arduino. Here are certain intriguing problem statements that you may like to work on. These projects are for fun and learning, so make sure you make the best out of it. The complete Problem statement is given [here](https://github.com/Sarthak-22/Intro_to_Arduino_Workshop/blob/main/Additional_ProblemStatements.md)
+   Hope you are familiar now with TinkerCAD and basics of Arduino. Here are certain intriguing problem statements that you may like to work on. These projects are for fun and learning, so make sure you make the best out of it. The complete Problem statement is given [here](https://github.com/Sarthak-22/Intro_to_Arduino_Workshop/blob/main/Additional_ProblemStatements.md)
 
