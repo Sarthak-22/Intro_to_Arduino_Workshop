@@ -1,9 +1,9 @@
 ## Problem Statement
-Design a Gas sensor circuit to detect Gas leakage by using an alarm buzzer
+Design a Gas sensor circuit using a Gas sensor at analog pin A0 to detect Gas leakage by using an alarm buzzer at pin 
 
 ### Circuit:
 
-![diagram]()
+![diagram](https://github.com/Sarthak-22/Intro_to_Arduino_Workshop/blob/main/images/Gas%20Detector%20Circuit.png)
 
 ### Code:
 ```
