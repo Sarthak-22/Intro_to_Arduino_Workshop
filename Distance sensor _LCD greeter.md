@@ -10,4 +10,4 @@ Using 2 IR sensors/distance sensors to detect when a person is coming into/ goin
 ```
 
 ### TinkerCad circuit link:
-[Person greeter with IR sensor and LCD]()
+[Person greeter with Distance sensor and LCD]()
