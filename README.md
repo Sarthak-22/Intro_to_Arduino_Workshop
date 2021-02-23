@@ -1,7 +1,7 @@
 # Intro_to_Arduino_Workshop
 Workshop contents for Shaastra 2021
 
-#### Find the presentation for the workshop [here]()
+#### Find the presentation for the workshop [here](https://docs.google.com/presentation/d/1vuA1uHPRItf_sCZbO7Fto9QIwZ4H_4lRpPnYITE1ZHU/edit?usp=sharing)
 
 ## Problem Statement-1
 1) [Blink an External LED](https://github.com/Sarthak-22/Intro_to_Arduino_Workshop/blob/main/Problem-Statement_1/Blink%20an%20external%20LED.md)
