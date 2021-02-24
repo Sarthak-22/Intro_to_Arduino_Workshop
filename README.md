@@ -15,7 +15,7 @@ Workshop contents for Shaastra 2021
    [Gas Detector Circuit](https://github.com/Sarthak-22/Intro_to_Arduino_Workshop/blob/main/Gas%20detector%20circuit.md)
 
 ## Problem Statement-3
-   [Person greeter with Distance sensor and LCD](https://github.com/Sarthak-22/Intro_to_Arduino_Workshop/blob/main/IR%20sensor%20_LCD%20greeter.md)
+   [Person greeter with Distance sensor and LCD](https://github.com/Sarthak-22/Intro_to_Arduino_Workshop/blob/main/Distance%20sensor%20_LCD%20greeter.md)
 
 
 ## Additional Problem Statements
