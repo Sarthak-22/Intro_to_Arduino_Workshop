@@ -21,7 +21,7 @@ Workshop contents for Shaastra 2021
 ## Additional Problem Statements
    Hope you are familiar now with TinkerCAD and basics of Arduino. Here are certain intriguing problem statements that you may like to work on. These projects are for fun and learning, so make sure you make the best out of it. The complete Problem statement is given [here](https://github.com/Sarthak-22/Intro_to_Arduino_Workshop/blob/main/Additional_ProblemStatements.md)
 
-## Check out this [link](https://drive.google.com/file/d/1lzgyXeLtdtxNY3RFtd9cCPG2Nd1f61ss/view?usp=sharing) to have a look at some cool projects in IOT that you can try out on your own.
+#### Check out this [link](https://drive.google.com/file/d/1lzgyXeLtdtxNY3RFtd9cCPG2Nd1f61ss/view?usp=sharing) to have a look at some cool projects in IOT that you can try out on your own.
 
 ### Workshop hosts contact:
 * **Sarthak** - 9769813616
